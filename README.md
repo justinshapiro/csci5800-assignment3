@@ -42,11 +42,13 @@ program with the script:
 
 ### ROC Plots
 
-![Naive Bayes ROC Curve](images/roc_1.png)
+![Naive Bayes ROC Curve](images/roc_1.PNG)
 
-![BGD-LR ROC Curve](images/roc_2.png)
+![BGD-LR ROC Curve](images/roc_2.PNG)
 
-![SGD-LR ROC Curve](images/roc_3.png)
+![SGD-LR ROC Curve](images/roc_3.PNG)
+
+![All ROC Curves](images/roc_4.PNG)
 
 ### Comparing Classifiers: Performance
 
